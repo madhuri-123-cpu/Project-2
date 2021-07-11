@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 
 Hello:wq
 
+=======
+hello2
+>>>>>>> hotfix_branch
